@@ -10,7 +10,7 @@
 
 # Give your peject a title, description, some tags, and URL to Github home page
 project_title: My Brother's Keeper
-project_description: This project makes the data associated with President Obama's My Brother's Keeper initiative available in an open format.
+project_description: This project makes the data associated with President Obama's <a href="https://www.whitehouse.gov/my-brothers-keeper">My Brother's Keeper</a> initiative available in an open format.
 project_url: http://audreywatters.github.io/mybrotherskeeper/
 project_tags:
   - tag: race
