@@ -12,7 +12,7 @@ layout: page
   <ul style="padding-left: 35px; list-style: circle;">
     {% for data in site.data %}
     <li style="height: 50px; vertical-align: text-middle; line-height: 50px;">
-        <span style="font-size: 8px; font-weight: bold;"><strong>{{ data.title }}</strong></span>
+        <span style="font-size: 10px; font-weight: bold;"><strong>{{ data.title }}</strong></span>
         <a href="{{ data.csv_url }}">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-csv.png" width="50" align="right" />
         </a>
@@ -20,6 +20,7 @@ layout: page
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json.png" width="50" align="right" />
         </a>
     </li>
+    <br/>
     {% endfor %}
   </ul>
   <p>{{ site.data_footer }}</p>
