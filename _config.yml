@@ -10,7 +10,7 @@
 
 # Give your peject a title, description, some tags, and URL to Github home page
 project_title: My Brother's Keeper
-project_description: This project makes the data associated with President Obama's <a href="https://www.whitehouse.gov/my-brothers-keeper">My Brother's Keeper</a> initiative available in an open format.
+project_description: This project makes the data associated with President Obama's <a href="https://www.whitehouse.gov/my-brothers-keeper">My Brother's Keeper</a> initiative available in an open format. Ideally the data is cleaned up, standardized across datasets, and machine- and human-readable.
 project_url: http://audreywatters.github.io/mybrotherskeeper/
 project_tags:
   - tag: race
@@ -105,8 +105,8 @@ faq:
 # Team
 # ---------
 
-team_show: yes
-team_nav: no
+team_show: no
+team_nav: yes
 team_title: Team
 team_description: This is a solo project conducted by Audrey Watters as part of <a href="http://kinlane.com">Kin Lane</a>'s Adopta.Agency project.
 team_footer: If you would like to get involved with this work, please submit an issue via the Github repo.
