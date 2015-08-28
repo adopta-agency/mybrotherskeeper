@@ -149,7 +149,7 @@ tools:
 
 # ---------
 # Blog
-# You don't have to create a blog for this project. But you can opt to create blog pages that serve as status updates on the project.
+# You don't have to create a blog for this project. But you can opt to create blog pages that serve as status updates on the project. To create a new blog post, make a copy of the original file inside the _posts folder. Rename it, adjusting the filename with the right data and title. Open that file to adjust the blog post title and contents.
 # ---------
 
 permalink: /:categories/:year/:month/:day/:title
@@ -159,7 +159,7 @@ blog_nav: yes
 
 # ---------
 # Support
-# If folks need help, who will they contact? (Go ahead. Leave API Evangelist as the contact person)
+# If folks need help, who will they contact? (Go ahead. Leave API Evangelist as the contact person. I know I will.)
 # ---------
 
 # URL to the issues page for this
