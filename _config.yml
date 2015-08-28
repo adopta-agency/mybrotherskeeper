@@ -31,7 +31,7 @@ github_repo: mybrotherskeeper
 data_show: yes
 data_nav: yes
 data_title: Data Files
-data_description: This is just a sample set of dataset.
+data_description: These files are drawn from the <a href="http://catalog.data.gov/dataset/my-brothers-keeper-key-statistical-indicators-on-boys-and-men-of-color">data.gov list of associated datasets</a>.
 data_footer: The goal of publishing these CSV and JSON alternatives is to make this data easier for humans and machines to utilize.
 
 # You can add one or many data sets here, with a title, and link to CSV and JSON file
@@ -42,7 +42,7 @@ data:
 
 # ---------
 # APIs
-# You do not have to create an API for your dataset.
+# You do not have to create an API for your dataset. Publishing your cleaned up dataset in a CSV file is a solid start.
 # ---------
 
 api_show: no
@@ -85,7 +85,7 @@ showcase:
 # Here you can offer Q&A with the datasets and the processes surrounding your particular dataset
 # ---------
 
-faq_show: yes
+faq_show: no
 faq_nav: no
 faq_title: FAQ
 faq_description: These are some of the common questions that need answering, or get asked as part of the work around this project.
