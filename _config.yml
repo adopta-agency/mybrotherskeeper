@@ -31,14 +31,14 @@ github_repo: mybrotherskeeper
 data_show: yes
 data_nav: yes
 data_title: Data Files
-data_description: These files are drawn from the <a href="http://catalog.data.gov/dataset/my-brothers-keeper-key-statistical-indicators-on-boys-and-men-of-color">data.gov list of associated datasets</a>.
+data_description: These files are drawn from the 130+ datasets associated with the <a href="http://catalog.data.gov/dataset/my-brothers-keeper-key-statistical-indicators-on-boys-and-men-of-color">My Brother's Keeper initiative</a> via data.gov.
 data_footer: The goal of publishing these CSV and JSON alternatives is to make this data easier for humans and machines to utilize.
 
 # You can add one or many data sets here, with a title, and link to CSV and JSON file
 data:
-  - title: "Farmers Markets"
-    csv_url: "http://adopta-agency.github.io/adopta-blueprint/data/farmers_markets.csv"
-    json_url: "http://adopta-agency.github.io/adopta-blueprint/data/farmers_markets.json"
+  - title: "Sample Data"
+    csv_url: "http://adopta-agency.github.io/"
+    json_url: "http://adopta-agency.github.io/"
 
 # ---------
 # APIs
@@ -63,8 +63,8 @@ api:
 showcase_show: no
 showcase_nav: no
 showcase_title: Showcase
-showcase_description: This is a showcase of what is being build on top of this open data and APIs. Right now it is just sample data, but when you launch for your project, you can showcase everything that is being developed.
-showcase_footer: This project is designed to be used, and extended, please share what you have built so it can be included here on the showcase, for others to find.
+showcase_description: This is a showcase of what is being build on top of this open data and APIs.
+showcase_footer: This project is designed to be used and extended; please share what you have built so it can be included here on the showcase.
 
 showcase:
   - title: Showcase Item One
@@ -88,7 +88,7 @@ showcase:
 faq_show: no
 faq_nav: no
 faq_title: FAQ
-faq_description: These are some of the common questions that need answering, or get asked as part of the work around this project.
+faq_description: These are some of the common questions that need answering.
 faq_footer: Questions that get submitted via the projects Github issue managment are sometimes added here.
 
 faq:
