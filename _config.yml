@@ -36,9 +36,21 @@ data_footer: The goal of publishing these CSV and JSON alternatives is to make t
 
 # You can add one or many data sets here, with a title, and link to CSV and JSON file
 data:
-  - title: "Sample Data"
-    csv_url: "http://adopta-agency.github.io/"
-    json_url: "http://adopta-agency.github.io/"
+  - title: "Births to Young Adult Women: % Distribution of Children Born to 18-19 year olds (By Race/Ethnicity)"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/births to young adult women - %25 distribution of children born to 18-19 2000-2012.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/births_to_young_women_percentage_dist_18-19_2000-2012.json"
+  - title: "Births to Young Adult Women: % Distribution of Children Born to 20-24 year olds (By Race/Ethnicity)"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/births to young adult women - %25 distribution of children born to 20-24 2000-2012.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/births_to_young_women_percentage_dist_20-24_2000-2012.json"
+  - title: "Births to Young Adult Women: Birth Rate Among 18-19 year olds (By Race/Ethnicity)"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/births to young adult women - birth rate age 18–19 2000–2012 .csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/births_to_young_adult_women_birth_date_18-19_2000-2012.json"
+  - title: "Births to Young Adult Women: Birth Rate Among 20-24 year olds (By Race/Ethnicity)"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/births to young adult women - birth rate age 20-24 2000-2012.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/births_to_young_adult_women_birth_rate_20-24_2000-2012.json"
+  - title: "Births to Young Adult Women 2000-2012"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/births to young adult women 2000-2012.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/births_to_young_adult_women_2000-2-12.json"
 
 # ---------
 # APIs
