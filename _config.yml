@@ -10,7 +10,7 @@
 
 # Give your peject a title, description, some tags, and URL to Github home page
 project_title: My Brother's Keeper
-project_description: This project makes the data associated with President Obama's <a href="https://www.whitehouse.gov/my-brothers-keeper">My Brother's Keeper</a> initiative available in an open and editable format. By using the "Adopta.Agency" framework - that is, adopting Department of Education datasets - the data that the department has called "statistical indicators" for young men of color will be cleaned up, standardized, and made machine- and human-readable.
+project_description: This project makes the data associated with President Obama's <a href="https://www.whitehouse.gov/my-brothers-keeper">My Brother's Keeper</a> initiative available in an open and editable format. By using the "Adopta.Agency" framework - that is, adopting Department of Education datasets - the <a href="http://catalog.data.gov/dataset/my-brothers-keeper-key-statistical-indicators-on-boys-and-men-of-color">data that the department has called "statistical indicators" for young men of color</a> will be cleaned up, standardized, and made machine- and human-readable.
 project_url: http://audreywatters.github.io/mybrotherskeeper/
 project_tags:
   - tag: race
@@ -66,6 +66,12 @@ data:
   - title: "Adolescent Birth Rates Among 15-17 Year Olds 2000-2012"
     csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/adolescent birth rates age 15-17 2000-2012.csv"
     json_url: "http://audreywatters.github.io/mybrotherskeeper/data/adolescent_births_age_15-17_2000-2012.json"
+  - title: "Number of 18-24 Year Olds Who Have Not Completed High School By Sex and Race 2000-2013"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/number of 18-24 yo who have not completed hs by sex and race 2000-2013.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/number_of_18-24_yo_who_have_not_completed_hs.json"
+  - title: "Percentage of 18-24 Year Olds Who Have Not Completed High School By Sex and Race 2000-2013"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/percentage of 18-24 yo who have not completed hs by sex and race 2000-2013.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/percentage_of_18-24_yo_who_have_not_completed_hs.json"
 
 # ---------
 # APIs
