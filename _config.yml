@@ -17,6 +17,8 @@ project_tags:
   - tag: open data
   - tag: gender
   - tag: education
+  - tag: child poverty
+  - tag: violence
 
 # ---------
 # You can add a new tag for each tag associated with your project
@@ -69,9 +71,21 @@ data:
   - title: "Number of 18-24 Year Olds Who Have Not Completed High School By Sex and Race 2000-2013"
     csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/number of 18-24 yo who have not completed hs by sex and race 2000-2013.csv"
     json_url: "http://audreywatters.github.io/mybrotherskeeper/data/number_of_18-24_yo_who_have_not_completed_hs.json"
-  - title: "Percentage of 18-24 Year Olds Who Have Not Completed High School By Sex and Race 2000-2013"
-    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/percentage of 18-24 yo who have not completed hs by sex and race 2000-2013.csv"
-    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/percentage_of_18-24_yo_who_have_not_completed_hs.json"
+  - title: "Percentage of Children in Poverty 2002-2012"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/child poverty percentage - 2002-2012.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/percentage_of_children_in_poverty.json"
+  - title: "Children in Households With Violent Crime 2000-2012"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/children in households with violent crime - 2000-2012.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/children_in_households_with_violent_crime_2000-2012.json"
+  - title: "Number of Children Living in Households with Violent Crime by Crime, Sex, Race/Ethnicity"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/children living in households with violent crime by crime sex race ethnicity 2000-201 - number.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/children_in_households_with_violent_crime_2000-2012.json"
+  - title: "Percentage of Children Living in Households with Violent Crime by Crime, Sex, Race/Ethnicity"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/children living in households with violent crime by crime sex race ethnicity 2000-201 - percent.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/percentage_of_children_living_in_households_with_violent_crime.json"
+  - title: "Housing Problems 2003-2011"
+    csv_url: "http://audreywatters.github.io/mybrotherskeeper/data/housing problems - 2003-2011.csv"
+    json_url: "http://audreywatters.github.io/mybrotherskeeper/data/housing_problems_2003-2011.json"
 
 # ---------
 # APIs
@@ -82,7 +96,7 @@ api_show: no
 api_nav: no
 api_title: APIs
 api_description: This is a sample API generated from the dataset above. It is described using Swagger which allows the generation of interactive documentation, while also describing the meta data and surface area of an API.
-api_footer: The goal of launching these APIs is to make this data easier to consumer, and integrate into websites, applications, visualizations, and other integrations.
+api_footer: The goal of launching these APIs is to make this data easier to consume and integrate into websites, applications, visualizations, and elsewhere.
 
 api:
   - title: 
